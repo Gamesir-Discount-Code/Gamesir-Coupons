@@ -13,7 +13,7 @@
 
 <h2>🕹️ Why GameSir Is a Top Pick in 2025</h2>
 <ul>
-  <li>🎮 <a href="https://www.hlplanet.com/controller-hall-effect-joystick/">all Effect and TMR joysticks</a> = zero stick drift</li>
+  <li>🎮 <a href="https://www.hlplanet.com/controller-hall-effect-joystick/">Hall Effect and TMR joysticks</a> = zero stick drift</li>
   <li>⚡ Turbo, back buttons & remap options on most models</li>
   <li>🔋 Wireless, wired, and multi-platform support (Xbox, PC, Android, Switch)</li>
   <li>💪 Durable builds with tournament-ready responsiveness</li>
