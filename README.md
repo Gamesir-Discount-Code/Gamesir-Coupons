@@ -1,2 +1,0 @@
-# Gamesir-Coupons
-Gamesir Coupons
