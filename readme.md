@@ -1,6 +1,6 @@
 <h1>GameSir Discount Codes 2025 – Up to 15% OFF on Pro Controllers 🎮</h1>
 <p>Looking for elite performance without the elite price? GameSir's got your back.</p>
-<p>Use these <strong>GameSir discount codes</strong> at checkout to save instantly on gamepads, keyboards, and accessories:</p>
+<p>Use these <strong><a href="https://gamesir.com/?ta_aff=ULSTIFLBOM">Gamesir discount codes</a></strong> at checkout to save instantly on gamepads, keyboards, and accessories:</p>
 
 <a href="https://gamesir.com/?ta_aff=ULSTIFLBOM" target="_blank" rel="noopener">
   <img src="https://github.com/user-attachments/assets/f747df16-755f-4b8a-85eb-e5560d112b8b" alt="image" width="1370" height="332" />
