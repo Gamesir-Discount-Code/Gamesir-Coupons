@@ -2,9 +2,13 @@
 <p>Looking for elite performance without the elite price? GameSir's got your back.</p>
 <p>Use these <strong>GameSir discount codes</strong> at checkout to save instantly on gamepads, keyboards, and accessories:</p>
 
+<a href="https://gamesir.com/?ta_aff=ULSTIFLBOM" target="_blank" rel="noopener">
+  <img src="https://github.com/user-attachments/assets/f747df16-755f-4b8a-85eb-e5560d112b8b" alt="image" width="1370" height="332" />
+</a>
+
 <ul>
   <li>🔥 <strong>15OFF</strong> – Save 15% on select products</li>
-  <li>🍯 <strong>HONEY10OFF</strong> – Verified 10% off sitewide</li>
+  <li>🍯 <strong>OFFERS1</strong> – 15% off sitewide for most products</li>
   <li>🎯 <strong>WETHRIFT10OFF</strong> – Another 10% code that works on most gear</li>
   <li>🎮 <strong>G7PROWHEN</strong> – Limited-time offer for G7 Pro series</li>
 </ul>
